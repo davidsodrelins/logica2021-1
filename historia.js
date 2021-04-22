@@ -1,2 +1,3 @@
 console.log("Era uma vez...")
-console.log("uma menina chamada dine friz")
+console.log("uma menina chamada dina fritz")
+console.log("e um menino chamado Gohan")
