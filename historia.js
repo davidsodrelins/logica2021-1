@@ -1,2 +1,6 @@
 console.log("Era uma vez...")
 console.log("uma menina chamada dine friz")
+console.log("Dina possuia cabelos dourados e olhos cinzas")
+
+
+
