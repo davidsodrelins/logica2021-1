@@ -6,4 +6,4 @@ console.log("e Gohan tinha cabelos espetados.")
 console.log("Dina possuia cabelos dourados e olhos cinzas")
 console.log("Eles viviam pacificamente dentro da Muralha Maria")
 console.log("com medo de Freeza.")
-
+console.log("Quando um jovem chamado Naruto veio da vila da folha e lhes ensinaram a arte sábia ninja")
