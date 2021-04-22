@@ -24,7 +24,7 @@ var numero = null;
 var contTentativas = 0;
 var player = { nome: "", pontuacao: 0 };
 
-menuGeral()
+menuGeral();
 
 function jogar() {
   do {
