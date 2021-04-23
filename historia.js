@@ -11,3 +11,4 @@ console.log("Quando um jovem chamado Naruto veio da vila da folha e lhes ensinar
 console.log("Onde o Kakashi ensinava os alunos a dança")
 console.log("Mas encotrou o mestre Miagi e Daniel San treinando com")
 console.log("Edivaldo Pericleiton Rasta, ao som do Cabeça de Gelo!")
+console.log("Depois de ouvir muito seu som, o Cabeça de Gelo derreteu. Oh!")
