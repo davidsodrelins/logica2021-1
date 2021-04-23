@@ -6,8 +6,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
   </head>
+  <style>
+    .container {
+      width: 100%;
+    }
+
+    .campo {
+      width: 90%;
+      border: solid 2px;
+      padding: 15px;
+      margin-top: 15px;
+    }
+
+    .butaum{
+      background-color: #000000;
+      color: #ffffff;
+      width: 100%;
+      padding: 15px; 
+      margin-top: 15px;
+      border-radius: 8px;
+    }
+
+    .titulo{
+      margin-left: 10px;
+      font-family: fantasy;
+    }
+  </style>
   <body>
-    <h2>Lógica de programação do Senai</h2>
+    <h2 class="titulo">Login</h2>
+    <div class="container">
+      <input
+        class="campo"
+        type="text"
+        placeholder="jane@example.com"
+        name="email"
+        id="email"
+      />
+      <input
+        class="campo"
+        type="password"
+        placeholder="********"
+        name="senha"
+        id="senha"
+      />
+    </div>
+    <button class="butaum">LOG IN</button>
   </body>
-  <script src="joguinho.js"></script>
+  <script src="jogyuinho.js"></script>
 </html>
