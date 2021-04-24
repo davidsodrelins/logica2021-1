@@ -24,3 +24,4 @@ console.log("Até que um o freeza manda um de seus capangas, o colossal pra inva
 console.log("3 crianças estavam brincando de amarelinha enquanto mamãe fazia pipoca!")
 console.log("Entretidos com a batalha, não perceberam a queda do meteoro que dizimou boa parte do planeta...")
 console.log("Da mesma forma que aconteceu com os dinossauros")
+console.log("A borboleta se chamava borbo life")
