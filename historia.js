@@ -26,3 +26,4 @@ console.log("Entretidos com a batalha, não perceberam a queda do meteoro que di
 console.log("Da mesma forma que aconteceu com os dinossauros")
 console.log("A borboleta se chamava borbo life")
 console.log("Depois que o meteoro dizimou uma parte do planeta, os habitantes que restaram, foram para Namekusei")
+console.log("O jovem naruto entrou em uma competição para de se tornar o master chef do planeta")
