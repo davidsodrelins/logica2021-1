@@ -30,3 +30,4 @@ console.log("O jovem naruto entrou em uma competição para se tornar o master c
 console.log("No começo ele não se saiu muito bem, mas continuou tentando...")
 console.log("Ele se tornou aprendiz do lendário Sanji perna negra, o rei do oceano azul")
 console.log("Gokun sobreviveu e fugiu para Namekusei")
+console.log("Gokun encontra uma instituição com o nome SENAI em Namekusei")
