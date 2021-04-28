@@ -36,3 +36,4 @@ console.log("Ai Gokun tropeuçou na casca de banana, bateu a cabeça na pedra e 
 console.log("%cFIM",
     "font-size: 30px; font-family: Fantasy"
 )
+console.log("continua no proximo ep")
