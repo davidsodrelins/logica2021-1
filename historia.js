@@ -37,4 +37,4 @@ console.log("%cFIM",
     "font-size: 30px; font-family: Fantasy"
 )
 console.log("continua no proximo ep")
-console.log("continia no proximo ep")
+console.log("Segunda temporada em produção...")
